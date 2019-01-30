@@ -2,6 +2,10 @@ title: Intégration
 plan:
 - title: Introduction
   statement: markdowns/introduction.md
+- title: Exercice 1
+  statement: markdowns/exDEA1.md
+- title: Exercice 2
+  statement: markdowns/exDEA2.md
 projects:
   tassement:
     root: /tassement
