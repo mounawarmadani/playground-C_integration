@@ -7,7 +7,7 @@ plan:
 - title: Exercice 2
   statement: markdowns/exDEA2.md
 - title: Exercice 3
- statement: markdowns/ex6_load.md
+  statement: markdowns/ex6_load.md
 projects:
   load:
     root: /load
