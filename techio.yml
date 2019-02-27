@@ -8,6 +8,8 @@ plan:
   statement: markdowns/exDEA2.md
 - title: Exercice 3
   statement: markdowns/ex6_load.md
+- title: Exercice 4 
+  statement: markdowns/ex4.md
 projects:
   load:
     root: /load
