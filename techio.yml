@@ -1,14 +1,18 @@
 title: Intégration
 plan:
-- title: Introduction
-  statement: markdowns/introduction.md
+# - title: Introduction
+  # statement: markdowns/introduction.md
 - title: Exercice 1
   statement: markdowns/exDEA1.md
 - title: Exercice 2
   statement: markdowns/exDEA2.md
+- title: Exercice 3
+  statement: markdowns/ex6_load.md
+- title: Exercice 4 
+  statement: markdowns/ex4.md
 projects:
-  tassement:
-    root: /tassement
+  load:
+    root: /load
     runner:
       name: techio/cmake-gcc-runner
       version: latest
