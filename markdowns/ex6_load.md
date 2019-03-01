@@ -1,4 +1,4 @@
-# Exercice 6
+# Exercice 3
 
 Ecrire le code de la fonction `load` pour permettre le chargement de l'entièreté des enregistrements présents dans un fichier.
 
